@@ -1,2 +1,2 @@
 # SQLiteWithPython
-SQLite database for storing customer data with python
+Small exercise to store customer data in SQLite database with python
